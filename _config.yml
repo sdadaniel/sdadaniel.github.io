@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kwak Sung Shil"
+  name             : #"Kwak Sung Shil"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #"I am an **amazing** person."
+  bio              : "Welcome to My Blog."
   location         : #""
   email            :
   links:
