@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Mysql CheatSheet"
-categories:
-  - DB
+categories: "mysql"
 ---
 
 ## mysql connection with cmd

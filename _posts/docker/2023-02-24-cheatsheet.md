@@ -1,6 +1,14 @@
 ---
 layout: post
 title: "Docker CheatSheet"
+categories: "docker"
+---
+
+---
+
+layout: post
+title: "Docker CheatSheet"
+
 ---
 
 ## docker image
