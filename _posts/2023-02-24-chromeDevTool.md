@@ -1,5 +1,5 @@
 ---
-layout: simple
+layout: post
 title: "Chrome Dev Tools"
 ---
 
