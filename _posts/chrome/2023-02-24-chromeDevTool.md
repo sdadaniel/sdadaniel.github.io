@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Chrome Dev Tools"
 categories: "chrome"
+tag: "tools"
 ---
 
 <h1 align="center">Chrome Dev tools</h1>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mysql CheatSheet"
 categories: "mysql"
 ---

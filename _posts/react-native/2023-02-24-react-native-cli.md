@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Useful React native commands"
+title: "Useful React native commands11"
 categories: "react-native"
 ---
 

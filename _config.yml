@@ -16,18 +16,18 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko"
-title: "Siri"
-title_separator: "-"
-subtitle: # site tagline that appears below site title in masthead
+title: "Siri Blog"
+title_separator: "|"
+subtitle: "to be a good developer"
 name: "Siri"
-description: "Welcome To My Website"
+description: "Welcome To My Blog"
 url: "https://sdadaniel.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: "/assets/imgs/blog/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name: #"Kwak Sung Shil"
+  name: "Siri"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Welcome to My Blog."
+  # bio: "Bio descriptions"
   location: #""
   email:
   links:
@@ -249,16 +249,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -274,9 +274,14 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: posts
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      show_date: true
+      sidebar:
+        nav: "counts"
+
+date_format: "%Y-%m"

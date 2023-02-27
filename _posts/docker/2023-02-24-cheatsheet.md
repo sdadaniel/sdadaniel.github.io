@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Docker CheatSheet"
 categories: "docker"
 ---

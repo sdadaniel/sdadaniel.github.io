@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "How to add Fonts"
 categories: "react-native"
+tag: "cheatSheet"
 ---
 
 ## Adding fonts the React Native
