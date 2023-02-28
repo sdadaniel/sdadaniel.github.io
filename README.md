@@ -2,7 +2,7 @@
 
 - Welcome to siri's blog.
 
-## How to run
+## How to run with localhost
 
-- After installing theme as the guide run below code
+- After [installing](https://mmistakes.github.io/minimal-mistakes/docs/installation/) theme as the guide run below code
   `bundle exec jekyll serve`
