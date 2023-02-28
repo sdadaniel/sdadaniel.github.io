@@ -6,8 +6,11 @@ main:
     url: /tags/
 
 counts:
-  -title: "카테고리"
-  -use: true
-  -title: "태그"
-  -use: true
-
+  - title: "카테고리"
+    children:
+      - title: "소목차1"
+        url: /categories/
+      - title: "소목차1"
+        url: /categories/
+  - title: "카테고리2"
+    url: /categories/
