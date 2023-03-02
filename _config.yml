@@ -104,7 +104,7 @@ analytics:
 author:
   name: "Siri"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Bio descriptions"
+  bio: "FE Developer"
   location: #""
   email:
   links:
