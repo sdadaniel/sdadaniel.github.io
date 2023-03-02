@@ -3,11 +3,14 @@ title: "Mysql CheatSheet"
 categories: "mysql"
 ---
 
-## mysql connection with cmd
+###### Mysql Connecion
 
-###### `mysql -u${account} -p`
+| 명령어                  | 설명                      |
+| ----------------------- | ------------------------- |
+| `mysql -u${account} -p` | mysql connection with cmd |
 
-and insert your password
-tabl
+###### Select
 
-insert
+| 명령어                   | 설명    |
+| ------------------------ | ------- |
+| `select * from ${table}` | selects |
