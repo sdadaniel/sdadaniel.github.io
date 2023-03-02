@@ -8,13 +8,18 @@ tag: "tools"
 
 #### Open Command
 
+명령어를 통해 tool을 검색할 수 있다.
+
 shortcut : `ctrl` + `shift` + `p`
 
+![image](/assets/imgs/post/chrome/chrome-02.png)
+
+<hr>
 #### Animation
 
 애니메이션 디버깅을 위한 도구
 
-![image](./imgs/animation.png)
+![image](/assets/imgs/post/chrome/chrome-01.png)
 
 #### Rendering
 
