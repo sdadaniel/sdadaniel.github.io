@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Network Waterfall"
+title: "What is Network Waterfall"
 categories: "chrome"
 ---
 

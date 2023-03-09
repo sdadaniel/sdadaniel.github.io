@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Network Waterfall"
+title: "Terms in network waterfall"
 categories: "chrome"
 ---
 
