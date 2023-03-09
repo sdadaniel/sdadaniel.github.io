@@ -1,16 +1,13 @@
 ---
-layout: post
 title: "How to add Fonts"
 categories: "react-native"
 ---
 
-## Adding fonts the React Native
-
-#### Get the fonts required for the app
+#### 1. Get the fonts required for the app
 
 - ex) ./assets/font
 
-#### Add the configuration to the project
+#### 2. Add the configuration to the project
 
 - fileName: ${root}/react-native.config.js
 
@@ -24,7 +21,7 @@ module.exports = {
 }
 ```
 
-#### Link the assets to the project
+#### 3. Link the assets to the project
 
 react-native < 0.69
 

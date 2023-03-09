@@ -1,10 +1,7 @@
 ---
-layout: post
 title: "Useful React native commands"
 categories: "react-native"
 ---
-
-## Usefull `react-native-cli` script
 
 #### auto link assets
 
