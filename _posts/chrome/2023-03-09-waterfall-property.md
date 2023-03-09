@@ -3,8 +3,6 @@ title: "Terms in network waterfall"
 categories: "chrome"
 ---
 
-<h1 align="center">[Chrome Dev] Properties in chrome dev network waterfall</h1>
-
 #### Request Start Time
 
 This is the time when the request is initiated by the browser. The timing starts as soon as the browser requests the file, and stops when the server responds.

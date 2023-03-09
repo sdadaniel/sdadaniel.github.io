@@ -3,10 +3,6 @@ title: "What is Network Waterfall"
 categories: "chrome"
 ---
 
-<h1 align="center">[Chrome Dev] Network Waterfall</h1>
-
-#### What is Chrome Network Waterfall?
-
 Chrome Network Waterfall is a feature in the Chrome DevTools that allows you to view the network requests made by a website, along with the time it takes for each request to complete. This information is presented in a graphical format, with each request represented by a bar that shows the duration of the request.
 ![img](https://wd.imgix.net/image/NJdAV9UgKuN8AhoaPBquL7giZQo1/h90CtfziXluvh1LSSKJE.png?auto=format)
 
